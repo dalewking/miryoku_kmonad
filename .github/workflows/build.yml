@@ -1,4 +1,4 @@
-name: 'Build'
+name: 'Keyboard'
 on:
   - workflow_dispatch
 jobs:
